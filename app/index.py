@@ -1,0 +1,7 @@
+print('Teste agora 1')
+print('Teste agora 2')
+print('Teste agora 3')
+print('Teste agora 4')
+print('Teste agora 5')
+print('Teste agora 6')
+print('Teste agora 7')
